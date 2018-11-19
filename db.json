@@ -1,0 +1,12 @@
+{
+  "description": Emergency Leave",
+  "credits": 1,
+  "posted": 1,
+  "approved": 1,
+  "disapproved" : 1,
+  "cancelled" : 1,
+  "onhold" : 1,
+  "planned" : 1,
+  "revert" : 1,
+  "balance" :1
+}
